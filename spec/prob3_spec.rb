@@ -1,3 +1,4 @@
+require 'prob3'
 RSpec.describe StringWrapper do
   describe "#reverse" do
     it "reverses the string" do

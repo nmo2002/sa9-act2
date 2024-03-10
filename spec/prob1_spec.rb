@@ -1,4 +1,4 @@
-require 'prob1.rb'
+require 'prob1'
 
 RSpec.describe User do
   describe "#log_in" do
